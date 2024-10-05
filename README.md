@@ -5,4 +5,4 @@
 - 👀 I’m interested in learning new Tech
 - 🌱 Data Structure & Algoritham
 - 💞️ I’m looking to collaborate on working on new project
-- 📫 abhishekpandey.logic@gmail.com
+- 📫 pandey.abhishek@myyahoo.com
