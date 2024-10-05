@@ -26,3 +26,18 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman) 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AbhishekPandey-Tech">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbhishekPandey-Tech2&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbhishekPandey-Tech2&layout=compact&langs_count=8&theme=buefy"/>
+</a>
+</p>
+
+---
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+
+---
