@@ -5,7 +5,7 @@
 - 👀 I’m interested in learning new Tech
 - 🌱 Currently Learning - Data Structure & Algoritham
 - 💞️ I’m looking to collaborate on working on new project
-- 📫 pandey.abhishek@myyahoo.com
+- 📫 pandey.abhishek@myyahoo.com ; iamabhishekchandrapandey@gmail.com
 
 ---
 
